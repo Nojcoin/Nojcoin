@@ -1,0 +1,2 @@
+# Nojcoin
+Connecting Blockchain Networks
